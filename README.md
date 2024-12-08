@@ -1,8 +1,3 @@
-Running JS: node day1/day1.js
+Running TS: npx tsx day1/main.ts
 
-Running TS: npx ts-node day7/day7.ts
-
-Debugging: Update launch.json to current file
-
-Run JS Debug terminal.
-Start file (via npx node) in the debug terminal
+Debugging: Update package.json to debug each day via npx
